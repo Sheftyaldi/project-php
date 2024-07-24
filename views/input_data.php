@@ -1,6 +1,6 @@
 <div class="container mt-3">
   <h2>Input Data</h2>
-  <form action="/controller/proses_input_data.php" method="post">
+  <form action="controller/proses_input_data.php" method="post">
     <div class="mb-3 mt-3">
       <label>Nama:</label>
       <input type="text" class="form-control" placeholder="Ketik Nama" name="nama">
